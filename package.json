@@ -1,0 +1,12 @@
+{
+  "name": "cb-xlsx-to-xml-convertor",
+  "version": "1.0.0",
+  "author": "Michal \"Sxagon \" Lipka",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
